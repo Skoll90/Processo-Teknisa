@@ -1,0 +1,34 @@
+/-- Aplicação web To-Do list Segunda Etapa Processo Seletivo Teknisa --/
+
+Este é um exemplo simples de lista utilizando HTML, CSS e JavaScript.
+
+-- Configuração --
+
+- index.html
+
+A fonte usada para esta aplicação é a Roboto mas é possível alterar a fonte utilizando o link de integração da fonte desejada no Google fonts.
+Também é possível alterar a mensagem padrão do cabeçalho.
+
+- style.css
+
+Este arquivo possuí todas as configurações de cor e tamanho de todos os campos utilizados.
+Você pode alterar facilmente as cores, tamanho e o enquadramento de qualquer campo modificando seu respectivo valor.
+
+- main.js
+
+Este arquivo possui as funções utilizadas nesta aplicação.
+Também é possível aprimorar o projeto adicionando data para as atividades emensagens de confirmação para as ações realizadas.
+
+-- Execução --
+
+Abrindo o arquivo index.htlm com seu browser de preferência você terá acesso a aplicação To-Do List.
+No cabeçalho você encontrará um campo para incluir novas tarefas e clicando no botão + de adicionar você a adiciona na lista de tarefas a serem feitas.
+Em cada tarefa você pode alterar seu status para concluída ou removê-la através dos ícones presentes no canto direito de cada container individual de cada tarefa.
+Você também pode alterar o status de uma tarefa concluída para não concluída clicando novamente no ícone de concluído, retornando-a para a seção de tarefas a concluir.
+
+
+-- Estrutura e organização --
+
+
+
+-- Destaques --
